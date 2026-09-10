@@ -1,0 +1,6 @@
+/**
+ * Scanner
+ */
+public interface Scanner {
+
+}
