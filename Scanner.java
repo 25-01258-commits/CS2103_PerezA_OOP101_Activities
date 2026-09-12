@@ -1,6 +1,0 @@
-/**
- * Scanner
- */
-public interface Scanner {
-
-}
